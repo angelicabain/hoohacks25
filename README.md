@@ -11,7 +11,10 @@ Campin' Cookin' is a camping-friendly recipe generator designed for outdoor enth
 - **Built with React Native:** Cross-platform functionality so you can use the app anywhere!
 
 ### 📸 Devpost Submission Link
-*(Coming Soon!)*
+- https://devpost.com/software/campin-cookin
+
+### 📸 Video Demo Link
+- https://www.youtube.com/watch?v=6q0dWXsjSqw&ab_channel=AngelicaBain
 
 ### 🚀 Getting Started
 #### Prerequisites
